@@ -55,6 +55,9 @@ print(seven.stringHaseSeven("seven_eight"))                # False
 print(seven.stringHaseSeven("five"))                       # False
 print(seven.stringHaseSeven("SEVENeleven"))                # False
 ```
-Proprietà intelletuale: Azienda Sĕptem<br/>
+# Proprietà Intelletuale
+Tutti i diritti di proprietà intellettuale relativi a "Is7OfficialLibrary" appartengono originariamente ad Azienda Sĕptem. Il software è rilasciato sotto i termini della licenza inclusa in questo repository, che ne autorizza il fork, la modifica e la ridistribuzione nel rispetto delle condizioni specificate. La titolarità del codice originale e il diritto di paternità dell'opera restano in capo all'autore; ogni utilizzo derivato deve mantenere intatti i riferimenti al copyright e alle licenze originali come previsto dalle normative vigenti.
 <br/>
-Licenza: LGPL. Vogliamo che tutti accedano e facciano quello che vogliono con questa vasta ed essenziale libreria.<br/>
+
+# Licenza LGPL
+Il progetto è distribuito sotto licenza GNU Lesser General Public License (LGPL). In conformità a tale licenza, è esplicitamente autorizzata l'attività di forking, la ridistribuzione e la modifica del codice, anche per l'integrazione all'interno di software proprietari. Gli utenti sono tuttavia vincolati a mantenere le modifiche apportate alla presente libreria sotto la medesima licenza LGPL e a rendere disponibile il codice sorgente modificato secondo i termini previsti dalla stessa.
