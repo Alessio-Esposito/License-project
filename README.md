@@ -2,7 +2,7 @@
 <!--_Cosa c'è nella scatola?_-->
 
 
- isSevenOfficialLibrary
+# isSevenOfficialLibrary
 Libreria che importa una serie di 7 funzioni che permettono di interagire con il numero "7".<br/>
 
 # Utilizzo
