@@ -11,12 +11,14 @@ Come importare la libreria
 import sevebLibrary as seven
 ```
 ### is7
+Controlla se un numero è 7.
 ```python
 print(seven.is7(7))                                        # True
 print(seven.is7(4))                                        # False
 print(seven.is7(7.0))                                      # True
 ```
 ### isNearly7
+Controlla se un numero è quasi 7.
 ```python
 print(seven.isNearly7(7))                                  # True
 print(seven.isNearly7(6.7))                                # True
@@ -24,6 +26,7 @@ print(seven.isNearly7(7.3))                                # True
 print(seven.isNearly7(6.1))                                # False
 ```
 ### stringIs7
+Contorlla se una stringa è "sette".
 ```python
 print(seven.stringIs7("seven"))                            # True
 print(seven.stringIs7("Seven"))                            # True
@@ -31,12 +34,14 @@ print(seven.stringIs7("eight"))                            # False
 print(seven.stringIs7("sEVeN"))                            # True
 ```
 ### has7
+Controlla se un numero ha la cifra 7.
 ```python
 print(seven.has7(714))                                     # True
 print(seven.has7(678))                                     # True
 print(seven.has7(45))                                      # False
 ```
 ### is7Multiplier
+Controlla se un numero è multiplo di 7.
 ```python
 print(seven.is7Multiplier(7))                              # True
 print(seven.is7Multiplier(21))                             # True
@@ -44,11 +49,13 @@ print(seven.is7Multiplier(30))                             # False
 print(seven.is7Multiplier(0))                              # True
 ```
 ### has7Items
+Controlla se una struttura dati ha 7 elementi.
 ```python
 print(seven.has7Items([0, 2, 4, 6, 8 , 10, 12]))           # True
 print(seven.has7Items((0, 2, 4, 6, 8 , 10, 12)))           # True
 print(seven.has7Items([0, 2, 4, 6]))                       # False
 ```
+Controlla se in una stringa è contenuta la parola "sette"
 ### stringHasSeven
 ```python
 print(seven.stringHaseSeven("seven_eight"))                # False
